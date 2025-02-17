@@ -1,4 +1,4 @@
-### **wireframe sketches** 
+## **Prototype**
 
 ### **1. Unified Data Import Dashboard**
 #### **Split Screen Layout**
