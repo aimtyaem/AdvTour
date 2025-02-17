@@ -1,8 +1,3 @@
-**UX Core Features for Astronaut Health Predictive Analytics System**  
-Based on the technical requirements, here’s a streamlined UX design focused on usability, clarity, and actionable insights for diverse user roles (astronauts, medical teams, researchers):
-
----
-
 ### **1. Unified Data Import Dashboard**  
 **Goal:** Simplify importing data from diverse sources while ensuring security and validation.  
 **Features:**  
