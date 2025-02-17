@@ -1,4 +1,4 @@
-## **Prototype**
+## **STHC.AI**
 
 ### **1. Unified Data Import Dashboard**
 #### **Split Screen Layout**
